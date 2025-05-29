@@ -1,0 +1,14 @@
+name: random_emoji_picker
+description: A simple emoji picker that returns random emojis with optional category filters.
+version: 0.0.1
+homepage: https://github.com/yourusername/random_emoji_picker
+repository: https://github.com/yourusername/random_emoji_picker
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
