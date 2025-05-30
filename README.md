@@ -23,11 +23,10 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  random_emoji_picker: ^0.0.1
+  random_emoji_picker: ^0.0.3
+```
 
-Then run: flutter pub get
-
-## 🧪 Usage
+# 🧪 Usage
 import 'package:random_emoji_picker/random_emoji_picker.dart';
 
 void main() {

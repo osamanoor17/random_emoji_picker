@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../lib/random_emoji_picker.dart';
+import 'package:random_emoji_picker/random_emoji_picker.dart';
 
 void main() {
   runApp(RandomEmojiApp());
