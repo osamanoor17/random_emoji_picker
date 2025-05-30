@@ -1,6 +1,6 @@
 name: random_emoji_picker
 description: A simple emoji picker that returns random emojis with optional category filters.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/osamanoor17/
 repository: https://github.com/osamanoor17/random_emoji_picker
 environment:
