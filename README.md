@@ -1,7 +1,7 @@
 # 🧩 random_emoji_picker
 
 [![pub package](https://img.shields.io/pub/v/random_emoji_picker.svg)](https://pub.dev/packages/random_emoji_picker)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/random_emoji_picker?style=social)](https://github.com/osamanoor17/random_emoji_picker)
+[![GitHub stars](https://img.shields.io/github/stars/osamanoor17/random_emoji_picker?style=social)](https://github.com/osamanoor17/random_emoji_picker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A lightweight Flutter package to generate random emojis with a single line of code. Perfect for UI placeholders, games, chats, or just some fun!
@@ -27,7 +27,7 @@ dependencies:
 
 Then run: flutter pub get
 
-🧪 Usage
+## 🧪 Usage
 import 'package:random_emoji_picker/random_emoji_picker.dart';
 
 void main() {
@@ -35,14 +35,14 @@ void main() {
   print("Random Emoji: $emoji");
 }
 
-🎯 Example
+## 🎯 Example
 Clone this repo and navigate to the example folder:
 
 git clone https://github.com/your-username/random_emoji_picker.git
 cd random_emoji_picker/example
 flutter run
 
-📁 Project Structure
+## 📁 Project Structure
 
 random_emoji_picker/
 ├── lib/
@@ -54,13 +54,13 @@ random_emoji_picker/
 └── README.md
 
 
-📃 License
+## 📃 License
 MIT License.
 See the LICENSE file for more details.
 
-🔗 Useful Links
+## 🔗 Useful Links
 🌐 Pub.dev Page :https://pub.dev/packages/random_emoji_picker
 
 💻 GitHub Repo :https://github.com/osamanoor17/random_emoji_picker
 
-Made with ❤️ in Flutter.
+## Made with ❤️ in Flutter.
