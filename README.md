@@ -1,16 +1,66 @@
-# random_emoji_picker
+# 🧩 random_emoji_picker
 
-A new Flutter project.
+[![pub package](https://img.shields.io/pub/v/random_emoji_picker.svg)](https://pub.dev/packages/random_emoji_picker)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/random_emoji_picker?style=social)](https://github.com/your-username/random_emoji_picker)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Getting Started
+A lightweight Flutter package to generate random emojis with a single line of code. Perfect for UI placeholders, games, chats, or just some fun!
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔹 Simple one-liner emoji generator
+- 🔹 Supports all Flutter platforms
+- 🔹 Custom emoji list support (coming soon)
+- 🔹 Tiny and efficient
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📦 Installation
+
+Add the following to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  random_emoji_picker: ^0.0.1
+
+Then run: flutter pub get
+
+🧪 Usage
+import 'package:random_emoji_picker/random_emoji_picker.dart';
+
+void main() {
+  final emoji = RandomEmoji.getEmoji();
+  print("Random Emoji: $emoji");
+}
+
+🎯 Example
+Clone this repo and navigate to the example folder:
+
+git clone https://github.com/your-username/random_emoji_picker.git
+cd random_emoji_picker/example
+flutter run
+
+📁 Project Structure
+
+random_emoji_picker/
+├── lib/
+│   └── random_emoji_picker.dart
+├── example/
+│   └── main.dart
+├── pubspec.yaml
+├── LICENSE
+└── README.md
+
+
+📃 License
+MIT License.
+See the LICENSE file for more details.
+
+🔗 Useful Links
+🌐 Pub.dev Page :https://pub.dev/packages/random_emoji_picker
+
+💻 GitHub Repo :https://github.com/osamanoor17/random_emoji_picker
+
+Made with ❤️ in Flutter.
