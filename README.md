@@ -1,7 +1,7 @@
 # 🧩 random_emoji_picker
 
 [![pub package](https://img.shields.io/pub/v/random_emoji_picker.svg)](https://pub.dev/packages/random_emoji_picker)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/random_emoji_picker?style=social)](https://github.com/your-username/random_emoji_picker)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/random_emoji_picker?style=social)](https://github.com/osamanoor17/random_emoji_picker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A lightweight Flutter package to generate random emojis with a single line of code. Perfect for UI placeholders, games, chats, or just some fun!
